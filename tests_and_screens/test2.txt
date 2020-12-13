@@ -1,0 +1,150 @@
+args: 20 800 18 54 23 1000 21 63
+-----------------------------------------------------------------------------------------------------------------------------------
+iteration1
+
+Anchuria attack Taranteria and hit the 0 point.
+Taranteria attack Anchuria and hit the 0 point.
+Anchuria attack Taranteria and hit the 20 point.
+Taranteria attack Anchuria and hit the 9 point.
+Anchuria attack Taranteria and miss trying to hit 0 point.
+Taranteria attack Anchuria and miss trying to hit 11 point.
+Anchuria attack Taranteria and hit the 16 point.
+Taranteria attack Anchuria and hit the 2 point.
+Anchuria attack Taranteria and hit the 17 point.
+Taranteria attack Anchuria and miss trying to hit 10 point.
+Anchuria attack Taranteria and hit the 13 point.
+Taranteria attack Anchuria and miss trying to hit 6 point.
+Anchuria attack Taranteria and miss trying to hit 5 point.
+Taranteria attack Anchuria and miss trying to hit 16 point.
+Anchuria attack Taranteria and miss trying to hit 1 point.
+Taranteria attack Anchuria and miss trying to hit 6 point.
+Anchuria attack Taranteria and miss trying to hit 2 point.
+Taranteria attack Anchuria and hit the 16 point.
+Anchuria attack Taranteria and hit the 5 point.
+Taranteria attack Anchuria and miss trying to hit 4 point.
+Anchuria attack Taranteria and miss trying to hit 7 point.
+Taranteria attack Anchuria and miss trying to hit 12 point.
+Anchuria attack Taranteria and miss trying to hit 15 point.
+Taranteria attack Anchuria and hit the 4 point.
+Anchuria attack Taranteria and miss trying to hit 18 point.
+Taranteria attack Anchuria and hit the 0 point again.
+Anchuria attack Taranteria and hit the 14 point.
+Taranteria attack Anchuria and miss trying to hit 12 point.
+Anchuria attack Taranteria and miss trying to hit 5 point.
+Taranteria attack Anchuria and miss trying to hit 0 point.
+Anchuria attack Taranteria and miss trying to hit 9 point.
+Taranteria attack Anchuria and hit the 11 point.
+Anchuria attack Taranteria and hit the 16 point again.
+Taranteria attack Anchuria and hit the 1 point.
+Anchuria attack Taranteria and miss trying to hit 8 point.
+Taranteria attack Anchuria and hit the 11 point again.
+Anchuria attack Taranteria and hit the 12 point.
+Taranteria attack Anchuria and hit the 3 point.
+Anchuria attack Taranteria and miss trying to hit 20 point.
+Taranteria attack Anchuria and hit the 15 point.
+Anchuria attack Taranteria and hit the 11 point.
+Taranteria attack Anchuria and miss trying to hit 12 point.
+Anchuria attack Taranteria and hit the 16 point again.
+Taranteria attack Anchuria and miss trying to hit 14 point.
+Anchuria attack Taranteria and miss trying to hit 17 point.
+Taranteria attack Anchuria and hit the 11 point again.
+Anchuria attack Taranteria and hit the 16 point again.
+Taranteria attack Anchuria and hit the 11 point again.
+Anchuria attack Taranteria and hit the 20 point again.
+Taranteria attack Anchuria and miss trying to hit 4 point.
+Anchuria attack Taranteria and hit the 12 point again.
+Taranteria attack Anchuria and miss trying to hit 17 point.
+Anchuria attack Taranteria and hit the 17 point again.
+Taranteria attack Anchuria and miss trying to hit 8 point.
+Anchuria attack Taranteria and miss trying to hit 16 point.
+Taranteria attack Anchuria and miss trying to hit 15 point.
+Anchuria attack Taranteria and hit the 3 point.
+Taranteria attack Anchuria and hit the 10 point.
+Anchuria attack Taranteria and miss trying to hit 20 point.
+Taranteria attack Anchuria and hit the 0 point again.
+Anchuria attack Taranteria and miss trying to hit 19 point.
+Taranteria attack Anchuria and hit the 13 point.
+Anchuria attack Taranteria and hit the 20 point again.
+Taranteria attack Anchuria and hit the 3 point again.
+Anchuria attack Taranteria and hit the 8 point.
+Taranteria attack Anchuria and hit the 2 point again.
+Anchuria attack Taranteria and miss trying to hit 15 point.
+Taranteria attack Anchuria and miss trying to hit 17 point.
+Anchuria attack Taranteria and hit the 3 point again.
+Taranteria attack Anchuria and hit the 6 point.
+Taranteria run out of ammo and lose the war!
+-----------------------------------------------------------------------------------------------------------------------------------------------
+iteration2
+
+Anchuria attack Taranteria and hit the 6 point.
+Taranteria attack Anchuria and hit the 11 point.
+Anchuria attack Taranteria and miss trying to hit 1 point.
+Taranteria attack Anchuria and miss trying to hit 16 point.
+Anchuria attack Taranteria and hit the 12 point.
+Taranteria attack Anchuria and miss trying to hit 0 point.
+Anchuria attack Taranteria and hit the 6 point again.
+Taranteria attack Anchuria and hit the 0 point.
+Anchuria attack Taranteria and miss trying to hit 18 point.
+Taranteria attack Anchuria and hit the 2 point.
+Anchuria attack Taranteria and hit the 9 point.
+Taranteria attack Anchuria and miss trying to hit 7 point.
+Anchuria attack Taranteria and miss trying to hit 14 point.
+Taranteria attack Anchuria and miss trying to hit 14 point.
+Anchuria attack Taranteria and miss trying to hit 10 point.
+Taranteria attack Anchuria and hit the 8 point.
+Anchuria attack Taranteria and miss trying to hit 14 point.
+Taranteria attack Anchuria and miss trying to hit 5 point.
+Anchuria attack Taranteria and miss trying to hit 19 point.
+Taranteria attack Anchuria and hit the 13 point.
+Anchuria attack Taranteria and hit the 16 point.
+Taranteria attack Anchuria and miss trying to hit 12 point.
+Anchuria attack Taranteria and miss trying to hit 10 point.
+Taranteria attack Anchuria and hit the 16 point.
+Anchuria attack Taranteria and miss trying to hit 0 point.
+Taranteria attack Anchuria and hit the 3 point.
+Anchuria attack Taranteria and hit the 2 point.
+Taranteria attack Anchuria and hit the 16 point again.
+Anchuria attack Taranteria and hit the 11 point.
+Taranteria attack Anchuria and hit the 4 point.
+Anchuria attack Taranteria and miss trying to hit 1 point.
+Taranteria attack Anchuria and miss trying to hit 16 point.
+Anchuria attack Taranteria and hit the 17 point.
+Taranteria attack Anchuria and miss trying to hit 1 point.
+Anchuria attack Taranteria and hit the 19 point.
+Taranteria attack Anchuria and hit the 16 point again.
+Anchuria attack Taranteria and hit the 12 point again.
+Taranteria attack Anchuria and hit the 12 point.
+Anchuria attack Taranteria and hit the 12 point again.
+Taranteria attack Anchuria and hit the 13 point again.
+Anchuria attack Taranteria and miss trying to hit 8 point.
+Taranteria attack Anchuria and hit the 16 point again.
+Anchuria attack Taranteria and miss trying to hit 13 point.
+Taranteria attack Anchuria and hit the 1 point.
+Anchuria attack Taranteria and miss trying to hit 12 point.
+Taranteria attack Anchuria and hit the 13 point again.
+Anchuria attack Taranteria and hit the 6 point again.
+Taranteria attack Anchuria and hit the 16 point again.
+Anchuria attack Taranteria and hit the 10 point.
+Taranteria attack Anchuria and hit the 13 point again.
+Anchuria attack Taranteria and hit the 3 point.
+Taranteria attack Anchuria and hit the 10 point.
+Anchuria attack Taranteria and miss trying to hit 16 point.
+Taranteria attack Anchuria and miss trying to hit 11 point.
+Anchuria attack Taranteria and hit the 17 point again.
+Taranteria attack Anchuria and hit the 10 point again.
+Anchuria attack Taranteria and hit the 16 point again.
+Taranteria attack Anchuria and hit the 7 point.
+Anchuria attack Taranteria and hit the 8 point.
+Taranteria attack Anchuria and hit the 1 point again.
+Anchuria attack Taranteria and miss trying to hit 3 point.
+Taranteria attack Anchuria and hit the 13 point again.
+Anchuria attack Taranteria and miss trying to hit 0 point.
+Taranteria attack Anchuria and miss trying to hit 16 point.
+Anchuria attack Taranteria and hit the 18 point.
+Taranteria attack Anchuria and miss trying to hit 8 point.
+Anchuria attack Taranteria and miss trying to hit 0 point.
+Taranteria attack Anchuria and miss trying to hit 13 point.
+Anchuria attack Taranteria and hit the 16 point again.
+Taranteria attack Anchuria and miss trying to hit 0 point.
+Taranteria run out of ammo and lose the war!
+-------------------------------------------------------------------------------------------------------------------
